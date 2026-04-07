@@ -1,0 +1,39 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Secrets and Configuration
+.env
+.env.local
+.env.*
+credentials.json
+client_secret.json
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Audio / Media files (optional, keeps repository small)
+*.mp3
+*.wav
+*.m4a
+
+# Logs
+*.log

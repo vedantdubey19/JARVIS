@@ -102,12 +102,6 @@ Contributions are welcome!
 
 ⸻
 
-📜 License
-
-This project is licensed under the MIT License.
-
-⸻
-
 🙌 Acknowledgements
 	•	Inspired by Iron Man’s JARVIS
 	•	Open-source AI & Python community
